@@ -3,5 +3,5 @@
 module.exports = add;
 
 function add() {
-    // TODO
+    console.log('正在进行模版下载')
 }
