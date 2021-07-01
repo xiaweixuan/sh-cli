@@ -1,6 +1,6 @@
 {
   "name": "@sh-cli/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "夏炜轩 <xiaweixuan@bytedance.com>",
   "homepage": "",
@@ -24,8 +24,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@sh-cli/models": "^0.0.1",
-    "@sh-cli/utils": "^0.0.1",
+    "@sh-cli/models": "^0.0.2",
+    "@sh-cli/utils": "^0.0.2",
     "colors": "^1.4.0",
     "commander": "^7.2.0",
     "dotenv": "^9.0.2",
