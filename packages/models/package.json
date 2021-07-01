@@ -1,6 +1,6 @@
 {
   "name": "@sh-cli/models",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "夏炜轩 <xiaweixuan@bytedance.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@sh-cli/utils": "^0.0.0",
+    "@sh-cli/utils": "^0.0.1",
     "fs-extra": "^10.0.0",
     "npminstall": "^4.11.0",
     "path-exists": "^4.0.0",
